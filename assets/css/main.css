@@ -8601,3 +8601,7 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+			/* Custom heading color for Nairobi site */
+h1, h2, h3 {
+	color: #8B4513; /* warm Nairobi-inspired brown */
+}
